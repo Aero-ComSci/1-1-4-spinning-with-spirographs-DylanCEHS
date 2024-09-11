@@ -38,5 +38,6 @@ Use the forward() and right() methods to draw the sides of the squares.
 6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
 7. Give an example of an undecidable problem, attach code.
    
-
+Concentric Square
+![image](https://github.com/user-attachments/assets/01abb454-9f2a-4f85-ae5e-c08d16bf1a8b)
 
