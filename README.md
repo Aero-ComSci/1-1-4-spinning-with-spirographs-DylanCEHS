@@ -5,14 +5,16 @@
 
 The differences between zero-iteration conditions and infinite loops are that zero-iteration loops do not iterate at all as it will always be a false. However, infinite loops will loop infinitely as it will always be true.
 
-Zero-Iteration Conditions
+
+**Zero-Iteration Conditions**
+
 x = 1
 while x == 7
 	print(“I am awesome!”)
 
 [Nothing will print]
 
-Infinite Loops
+**Infinite Loops**
 
 x = 10
 while x ==10
@@ -33,4 +35,7 @@ I am awesome!
 **Concentric Square**
 
 ![image](https://github.com/user-attachments/assets/01abb454-9f2a-4f85-ae5e-c08d16bf1a8b)
+
+**Step 21**
+This flowchart is shown to avoid a zero iteration loop. The flowchart shows that if your answer is equal to “y”, then the algorithm is able to continue, but it isn't, the algorithm breaks. This draws a circle an infinite amount of times only if you always answer yes.
 
