@@ -36,6 +36,20 @@ I am awesome!
 
 ![image](https://github.com/user-attachments/assets/01abb454-9f2a-4f85-ae5e-c08d16bf1a8b)
 
+**Step 17**
+
+![image](https://github.com/user-attachments/assets/08e28c77-052a-4fd5-8734-e573e213b75f)
+
+**Step 18**
+
+![image](https://github.com/user-attachments/assets/84c3081f-c146-4af2-8701-98a0ad951518)
+
+**Step 19**
+
+![image](https://github.com/user-attachments/assets/cf31f893-f335-4f88-9519-72d72a17f392)
+
+To do step 19, I took the code in step 18 and in order to repeat the code infinitely, I added a "while TRUE" condition in order to repeat the code over and over.
+
 **Step 21**
 
 This flowchart is shown to avoid a zero iteration loop. The flowchart shows that if your answer is equal to “y”, then the algorithm is able to continue, but it isn't, the algorithm breaks. This draws a circle an infinite amount of times only if you always answer yes.
