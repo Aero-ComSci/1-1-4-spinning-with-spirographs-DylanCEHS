@@ -56,5 +56,6 @@ This flowchart is shown to avoid a zero iteration loop. The flowchart shows that
 
 **Undecidable Code**
 
-![image](https://github.com/user-attachments/assets/17a858e6-1e9f-4d0a-b478-61d525458395)
+![image](https://github.com/user-attachments/assets/13a1f1fb-5c2d-4909-8759-bf41c7032f2f)
 
+The code will loop forever as this function is a contradction as it passes after while true and will loop around forever making the code undecidable.
