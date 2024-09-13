@@ -54,13 +54,12 @@ To do step 19, I took the code in step 18 and in order to repeat the code infini
 
 This flowchart is shown to avoid a zero iteration loop. The flowchart shows that if your answer is equal to “y”, then the algorithm is able to continue, but it isn't, the algorithm breaks. This draws a circle an infinite amount of times only if you always answer yes.
 
-**Undecidable Code**
-
-![image](https://github.com/user-attachments/assets/13a1f1fb-5c2d-4909-8759-bf41c7032f2f)
-
 **1.1.3 Tokenizer**
 
 ![image](https://github.com/user-attachments/assets/077d739c-6552-40cb-a9c9-3a77e7e2d678)
 
+**Undecidable Code**
+
+![image](https://github.com/user-attachments/assets/13a1f1fb-5c2d-4909-8759-bf41c7032f2f)
 
 The code will loop forever as this function is a contradction as it passes after while true and will loop around forever making the code undecidable.
