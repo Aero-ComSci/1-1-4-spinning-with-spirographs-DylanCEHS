@@ -54,3 +54,7 @@ To do step 19, I took the code in step 18 and in order to repeat the code infini
 
 This flowchart is shown to avoid a zero iteration loop. The flowchart shows that if your answer is equal to “y”, then the algorithm is able to continue, but it isn't, the algorithm breaks. This draws a circle an infinite amount of times only if you always answer yes.
 
+**Undecidable Code**
+
+![image](https://github.com/user-attachments/assets/17a858e6-1e9f-4d0a-b478-61d525458395)
+
