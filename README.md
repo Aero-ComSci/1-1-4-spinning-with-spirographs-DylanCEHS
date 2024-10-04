@@ -56,6 +56,8 @@ This flowchart is shown to avoid a zero iteration loop. The flowchart shows that
 
 **1.1.3 Tokenizer**
 
+
+
 ![image](https://github.com/user-attachments/assets/077d739c-6552-40cb-a9c9-3a77e7e2d678)
 
 **Undecidable Code**
